@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Divjas-Singh/3-column-preview-card-component-main)
+- Live Site URL:(https://divjas-singh.github.io/3-column-preview-card-component-main/))
 
 
 ### Built with
